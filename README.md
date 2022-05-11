@@ -1,7 +1,7 @@
 # shadertoy-template
 This repo is a template for rendering your shadetoy projects in a browser. Deploy to Github Pages by pushing to gh-pages branch.
 
-Demo: [GitHub Pages](https://modster.github.io/shadertoy-template/).
+Demo: [GitHub Pages](https://modster.github.io/shadertoy-template/)
 
 Credit is given to the following people for their work: [gfxfundamentals/webgl2-fundamentals/graphs/contributors](https://github.com/gfxfundamentals/webgl2-fundamentals/graphs/contributors)
 
